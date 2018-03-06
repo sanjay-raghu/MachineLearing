@@ -1,0 +1,2 @@
+# MachineLearing
+Face Recognition based PCA dimension reduction and Image Reconstruction Advisor: Dr. Suresh Sundaram, Electrical and Electronics Engineering, IIT Guwahati Using a set of high-dimensional images of faces, eigenfaces were calculated which corresponded to the minimum error. These eigenfaces were then used to recognize those faces which were in the initial set of images. The following problems were also studied:  -> Character Recognition using Bayesian Classifier. -> GMM based clustering of an image.
